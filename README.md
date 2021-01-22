@@ -14,11 +14,11 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 
 -----------------------
 
-![](@attachment/Clipboard_2021-01-23-01-37-18.png)
+![Clipboard_2021-01-23-01-37-18](https://user-images.githubusercontent.com/58127640/105559830-43f06a80-5d23-11eb-8b74-67f6d071a1f8.png)
 
 - Her harf ile eşleşme sağlanır.
 
-![](@attachment/Clipboard_2021-01-23-00-39-42.png)
+![Clipboard_2021-01-23-00-39-42](https://user-images.githubusercontent.com/58127640/105559876-62566600-5d23-11eb-86d6-2b7ce61d1298.png)
 
 --------------------
 
