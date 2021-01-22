@@ -50,7 +50,7 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 ![Clipboard_2021-01-23-01-58-49](https://user-images.githubusercontent.com/58127640/105560046-d0029200-5d23-11eb-960d-f0b3adf7ca17.png)
 ![Clipboard_2021-01-23-02-00-01](https://user-images.githubusercontent.com/58127640/105560059-d8f36380-5d23-11eb-893e-568337543832.png)
 
-- Sadece kelimeler ile eşleşme sağlanır. ()
+- Sadece kelimeler ile eşleşme sağlanır.
 
 ![Clipboard_2021-01-23-01-59-04](https://user-images.githubusercontent.com/58127640/105560080-e3156200-5d23-11eb-9880-089dfa7745fc.png)
 ![Clipboard_2021-01-23-01-59-28](https://user-images.githubusercontent.com/58127640/105560087-ec063380-5d23-11eb-8b46-9b60244c4015.png)
