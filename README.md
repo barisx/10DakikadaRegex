@@ -39,6 +39,7 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 --------------------
 
 ![Clipboard_2021-01-23-01-54-22](https://user-images.githubusercontent.com/58127640/105559979-ae090f80-5d23-11eb-8c7d-488a8f785fa2.png)
+
 ![Clipboard_2021-01-23-01-54-48](https://user-images.githubusercontent.com/58127640/105559999-b8c3a480-5d23-11eb-8ecc-0dc8bf971595.png)
 
 - Tüm karakterler ile eşleşme sağlanır. (Her ikisi için de)
@@ -48,11 +49,13 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 --------------------
 
 ![Clipboard_2021-01-23-01-58-49](https://user-images.githubusercontent.com/58127640/105560046-d0029200-5d23-11eb-960d-f0b3adf7ca17.png)
+
 ![Clipboard_2021-01-23-02-00-01](https://user-images.githubusercontent.com/58127640/105560059-d8f36380-5d23-11eb-893e-568337543832.png)
 
 - Sadece kelimeler ile eşleşme sağlanır.
 
 ![Clipboard_2021-01-23-01-59-04](https://user-images.githubusercontent.com/58127640/105560080-e3156200-5d23-11eb-9880-089dfa7745fc.png)
+
 ![Clipboard_2021-01-23-01-59-28](https://user-images.githubusercontent.com/58127640/105560087-ec063380-5d23-11eb-8b46-9b60244c4015.png)
 
 --------------------
@@ -68,6 +71,7 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 --------------------
 
 ![Clipboard_2021-01-23-02-04-59](https://user-images.githubusercontent.com/58127640/105560145-17891e00-5d24-11eb-8548-284f03304498.png)
+
 ![Clipboard_2021-01-23-02-05-24](https://user-images.githubusercontent.com/58127640/105560167-24a60d00-5d24-11eb-9278-50daef249a74.png)
 
 - Sadece numaralar ile eşleşme sağlanır.
