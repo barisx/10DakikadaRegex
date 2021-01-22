@@ -97,29 +97,30 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 
 - Boşluk karakteri haricindekiler ile eşleşir.
 
-![](@attachment/Clipboard_2021-01-23-02-09-17.png)
+![image](https://user-images.githubusercontent.com/58127640/105560397-aeee7100-5d24-11eb-924c-d6914e995bdc.png)
 
 --------------------
 
-![](@attachment/Clipboard_2021-01-23-02-16-16.png)
+![Clipboard_2021-01-23-02-16-16](https://user-images.githubusercontent.com/58127640/105560437-c0d01400-5d24-11eb-92e2-62eb235c86c6.png)
 
 - Unicode olan karakterler ile eşleşir.
 - Unicode çince ile rusça dillerini de kapsar.
 - Değişik ülke harflerini tanımaya yarar.
 
-![](@attachment/Clipboard_2021-01-23-02-16-34.png)
+![Clipboard_2021-01-23-02-16-34](https://user-images.githubusercontent.com/58127640/105560450-c9c0e580-5d24-11eb-9937-f1970c9514e2.png)
 
 --------------------
 
-![](@attachment/Clipboard_2021-01-23-02-17-50.png)
+![Clipboard_2021-01-23-02-17-50](https://user-images.githubusercontent.com/58127640/105560465-d2192080-5d24-11eb-961e-4a805ff09371.png)
 
 - Unicode olmayanlar ile eşleşir.
 
-![](@attachment/Clipboard_2021-01-23-02-18-00.png)
+![Clipboard_2021-01-23-02-18-00](https://user-images.githubusercontent.com/58127640/105560478-da715b80-5d24-11eb-9e7b-3b82a870e3f6.png)
 
 --------------------
 
 Bitti.
 
 **Kaynak:** https://regexr.com/
+
 Proje Github: https://github.com/gskinner/regexr/
