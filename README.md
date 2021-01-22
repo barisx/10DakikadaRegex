@@ -82,6 +82,7 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 --------------------
 
 ![Clipboard_2021-01-23-02-06-21](https://user-images.githubusercontent.com/58127640/105560209-3f788180-5d24-11eb-834a-e2f38e0d5855.png)
+
 ![Clipboard_2021-01-23-02-07-39](https://user-images.githubusercontent.com/58127640/105560222-48695300-5d24-11eb-812d-64e103de6ac2.png)
 
 - Numara haricindekiler ile eşleşme sağlanır.
