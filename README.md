@@ -61,6 +61,7 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 --------------------
 
 ![Clipboard_2021-01-23-02-01-06](https://user-images.githubusercontent.com/58127640/105560110-f6283200-5d23-11eb-9278-aead52f9fdfd.png)
+
 ![Clipboard_2021-01-23-02-01-20](https://user-images.githubusercontent.com/58127640/105560122-017b5d80-5d24-11eb-80b5-6e348337043b.png)
 
 - Sadece düşük numaralı ASCII karakterleri ile eşleşir.
