@@ -76,24 +76,24 @@ Eğitimde kullanacağımız şablon alttaki gibidir.
 
 --------------------
 
-![](@attachment/Clipboard_2021-01-23-02-06-21.png)
-![](@attachment/Clipboard_2021-01-23-02-07-39.png)
+![Clipboard_2021-01-23-02-06-21](https://user-images.githubusercontent.com/58127640/105560209-3f788180-5d24-11eb-834a-e2f38e0d5855.png)
+![Clipboard_2021-01-23-02-07-39](https://user-images.githubusercontent.com/58127640/105560222-48695300-5d24-11eb-812d-64e103de6ac2.png)
 
 - Numara haricindekiler ile eşleşme sağlanır.
 
-![](@attachment/Clipboard_2021-01-23-02-08-27.png)
+![Clipboard_2021-01-23-02-08-27](https://user-images.githubusercontent.com/58127640/105560236-51f2bb00-5d24-11eb-904b-54a909904694.png)
 
 --------------------
 
-![](@attachment/Clipboard_2021-01-23-02-09-06.png)
+![Clipboard_2021-01-23-02-09-06](https://user-images.githubusercontent.com/58127640/105560251-5b7c2300-5d24-11eb-9436-defd2e48a577.png)
 
 - Sadece boşluk karakteri ile eşleşir.
 
-![](@attachment/Clipboard_2021-01-23-02-09-17.png)
+![Clipboard_2021-01-23-02-09-17](https://user-images.githubusercontent.com/58127640/105560284-659e2180-5d24-11eb-9b11-ca32b3286fe3.png)
 
 --------------------
 
-![](@attachment/Clipboard_2021-01-23-02-10-30.png)
+![Clipboard_2021-01-23-02-10-30](https://user-images.githubusercontent.com/58127640/105560298-6e8ef300-5d24-11eb-8411-3415278b1236.png)
 
 - Boşluk karakteri haricindekiler ile eşleşir.
 
